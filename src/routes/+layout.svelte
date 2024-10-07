@@ -1,7 +1,6 @@
 <script>
     import { Navbar, NavBrand, NavHamburger, NavLi, NavUl } from "flowbite-svelte";
     import "../app.css";
-    export const prerender = true;0
 </script>
 <svelte:head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
